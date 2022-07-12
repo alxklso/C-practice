@@ -1,2 +1,5 @@
 # C-practice
-This is a repo containing some of programs I wrote in C.
+This is a repo containing some programs I wrote in C. The main topics implemented in these programs include:
+- Bit shifting 
+- Memory allocation (malloc)
+- Simulated CPU/RAM function
