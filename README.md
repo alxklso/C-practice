@@ -6,3 +6,8 @@ This is a repo containing some programs I wrote in C. The main topics implemente
 - Data structures
 - Algorithms 
 - Object-Oriented Programming (OOP)
+
+Some notes on the programs in this repo:
+- program1.c covers OOP, data structures, algorithms, and memory allocation. Simulates a record system that can perform various functions
+- program2.c covers
+- program3.c covers
