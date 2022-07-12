@@ -1,7 +1,3 @@
-// FINAL VERSION
-// Alex Kelso
-// Computer Systems Organization
-
 
 // PART 2 - include necessary header files 
 #include <stdio.h> // to use printf and scanf
